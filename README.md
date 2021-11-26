@@ -5,6 +5,8 @@ This is for those of you who are fully aware that the editor they use to work in
 Sublime Text is a native sophisticated text editor for code, markup and prose. You'll love the slick user interface, and extraordinary features. When your workstation needs all the power and resources available for heavy compilation and background processing, another chrome opened (that identifies as a text editor) is a nightmare (that is if you use chrome - another monster).
 Sublime is free for personal use. That is why the following is just for educational purposes only:
 
+The following is for the Sublime v4
+
 ```bash
 00007FF6AFC4B63D | C3                  | ret                                                  |
 00007FF6AFC4B63E | C601 00             | mov byte ptr ds:[rcx],0                              |
