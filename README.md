@@ -12,7 +12,7 @@ Sublime is free for personal use. That is why the following is just for educatio
 00007FF6AFC4B641 | C3                  | ret                                                  |
 to
 00007FF6AFC4B63D | C3                  | ret                                                  |
-00007FF6AFC4B63E | C601 01             | mov byte ptr ds:[rcx],1                              | <-
+00007FF6AFC4B63E | C601 01             | mov byte ptr ds:[rcx],1                              |
 00007FF6AFC4B641 | C3                  | ret                                                  |
 
 
